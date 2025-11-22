@@ -1,6 +1,5 @@
-# Excel-Salary-Dashboard
 
-# 📊 Global Data Science Salary Dashboard
+# 📊 Global Data Roles Salary Dashboard
 
 ![Dashboard Demo](assets/dashboard-demo.gif)
 *A dynamic Excel dashboard analyzing 32,000+ real-world job postings to reveal salary trends across the globe.*

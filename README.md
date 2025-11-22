@@ -5,7 +5,7 @@
 *A dynamic Excel dashboard analyzing 32,000+ real-world job postings to reveal salary trends across the globe.*
 
 ## 📝 Project Overview
-This project analyzes the data science job market to answer key questions: **Which roles pay the most? Which countries offer the best opportunities? And does working remotely impact salary?**
+This project analyzes the data roles job market to answer key questions: **Which roles pay the most? Which countries offer the best opportunities? And does working remotely impact salary?**
 
 I analyzed 32,000+ rows of data to build a tool that allows users to filter jobs by Role, Country, and Experience level.
 
